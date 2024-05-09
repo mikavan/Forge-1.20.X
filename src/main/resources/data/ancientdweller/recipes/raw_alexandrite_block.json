@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "ancientdweller:raw_alexandrite"
+    }
+  },
+  "result": {
+    "item": "ancientdweller:raw_alexandrite_block"
+  }
+}
