@@ -1,0 +1,13 @@
+{
+  "item.ancientdweller.alexandrite": "Alexandrite",
+  "item.ancientdweller.raw_alexandrite": "Raw Alexandrite",
+
+  "block.ancientdweller.alexandrite_block": "Block of Alexandrite",
+  "block.ancientdweller.raw_alexandrite_block": "Block of Raw Alexandrite",
+  "block.ancientdweller.deepslate_alexandrite_ore": "Block of Deepslate Alexandrite Ore",
+  "block.ancientdweller.end_stone_alexandrite_ore": "Block of Endstone Alexandrite Ore",
+  "block.ancientdweller.nether_alexandrite_ore": "Block of Nether Alexandrite Ore",
+  "block.ancientdweller.alexandrite_ore": "Block of Alexandrite Ore",
+
+  "creativetab.ancient_dweller_tab": "Ancient Dweller Tab"
+}
