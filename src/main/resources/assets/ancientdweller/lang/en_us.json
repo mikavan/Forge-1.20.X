@@ -9,10 +9,10 @@
   "block.ancientdweller.raw_alexandrite_block": "Block of Raw Alexandrite",
   "block.ancientdweller.sound_block": "Sound Block",
 
-  "block.ancientdweller.deepslate_alexandrite_ore": "Block of Deepslate Alexandrite Ore",
-  "block.ancientdweller.end_stone_alexandrite_ore": "Block of Endstone Alexandrite Ore",
-  "block.ancientdweller.nether_alexandrite_ore": "Block of Nether Alexandrite Ore",
-  "block.ancientdweller.alexandrite_ore": "Block of Alexandrite Ore",
+  "block.ancientdweller.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+  "block.ancientdweller.end_stone_alexandrite_ore": "Endstone Alexandrite Ore",
+  "block.ancientdweller.nether_alexandrite_ore": "Nether Alexandrite Ore",
+  "block.ancientdweller.alexandrite_ore": "Alexandrite Ore",
 
   "creativetab.ancient_dweller_tab": "Ancient Dweller Tab",
 
