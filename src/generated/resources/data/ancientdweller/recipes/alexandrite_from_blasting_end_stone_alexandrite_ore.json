@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "alexandrite",
+  "ingredient": {
+    "item": "ancientdweller:end_stone_alexandrite_ore"
+  },
+  "result": "ancientdweller:alexandrite"
+}

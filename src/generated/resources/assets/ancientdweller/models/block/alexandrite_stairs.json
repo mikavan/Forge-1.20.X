@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "ancientdweller:block/alexandrite_block",
+    "side": "ancientdweller:block/alexandrite_block",
+    "top": "ancientdweller:block/alexandrite_block"
+  }
+}

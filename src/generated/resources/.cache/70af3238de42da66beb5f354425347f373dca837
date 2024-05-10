@@ -1,0 +1,5 @@
+// 1.20.1	2024-05-10T22:50:50.700445	Block Tags
+ac168fe6fef181d8ade6ad136cdad1209ad9e696 data/ancientdweller/tags/blocks/metal_detector_valuables.json
+c9bf144d8cc4856b9bef5bc0e88aceea255cbf1b data/minecraft/tags/blocks/mineable/pickaxe.json
+fc8dd4d5190d7bc20f9153d1f9a5cf4752c1cb7d data/minecraft/tags/blocks/needs_diamond_tool.json
+22dacda2737ff47f5cafa6ce4c2a48eb34722602 data/minecraft/tags/blocks/needs_iron_tool.json
