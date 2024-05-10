@@ -2,6 +2,8 @@
   "item.ancientdweller.alexandrite": "Alexandrite",
   "item.ancientdweller.raw_alexandrite": "Raw Alexandrite",
   "item.ancientdweller.metal_detector": "Metal Detector",
+  "item.ancientdweller.kohlrabi": "Kohlrabi",
+  "item.ancientdweller.peat_brick": "Brick of Peat",
 
   "block.ancientdweller.alexandrite_block": "Block of Alexandrite",
   "block.ancientdweller.raw_alexandrite_block": "Block of Raw Alexandrite",
@@ -14,5 +16,9 @@
 
   "creativetab.ancient_dweller_tab": "Ancient Dweller Tab",
 
-  "item.ancientdweller.metal_detector.no_valuables": "No valuables found!"
+  "item.ancientdweller.metal_detector.no_valuables": "No valuables found!",
+
+  "tooltip.ancientdweller.metal_detector.tooltip.shift": "Right Click on Blocks to find Valuables!",
+  "tooltip.ancientdweller.metal_detector.tooltip": "Press §eSHIFT§r for more Information",
+  "tooltip.ancientdweller.sound_block": "Plays nice sounds when walking or right-clicking"
 }
