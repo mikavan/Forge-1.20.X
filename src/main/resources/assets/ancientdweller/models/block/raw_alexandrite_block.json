@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "ancientdweller:block/raw_alexandrite_block"
-  }
-}
