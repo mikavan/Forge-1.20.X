@@ -24,7 +24,7 @@ public class ModItems {
             () -> new MetalDetectorItem(new Item.Properties().durability(512)));
 
     public static final RegistryObject<Item> KOHLRABI = ITEMS.register("kohlrabi",
-            () -> new MetalDetectorItem(new Item.Properties().food(ModFoodProperties.KOHLRABI)));
+            () -> new  Item(new Item.Properties().food(ModFoodProperties.KOHLRABI)));
     public static final RegistryObject<Item> PEAT_BRICK = ITEMS.register("peat_brick",
             () -> new FuelItem(new Item.Properties(), 400));
 

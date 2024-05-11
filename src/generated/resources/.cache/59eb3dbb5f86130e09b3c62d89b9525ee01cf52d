@@ -1,6 +1,8 @@
-// 1.20.1	2024-05-10T22:49:39.4938013	Loot Tables
+// 1.20.1	2024-05-11T21:09:29.6426542	Loot Tables
 928506085843846602cbd0df3cf8f8f8aeb76ed2 data/ancientdweller/loot_tables/blocks/alexandrite_block.json
+189720d22acf1177f6d8fd2132871447ca5c13d0 data/ancientdweller/loot_tables/blocks/alexandrite_button.json
 1eb02bc828e2190e513d7e28ac238ffeee09ae7d data/ancientdweller/loot_tables/blocks/alexandrite_ore.json
+e726aa1e242e779dcf820d772b77148d4be7c2d2 data/ancientdweller/loot_tables/blocks/alexandrite_pressure_plate.json
 cad93dd693782ac817deada0a1f0c3ee32c3c1a8 data/ancientdweller/loot_tables/blocks/alexandrite_slab.json
 07573f02aedb5ee0b440c6500d89a91c40804250 data/ancientdweller/loot_tables/blocks/alexandrite_stairs.json
 5e141f4598902aa3c38286e42ad384ec6f23e923 data/ancientdweller/loot_tables/blocks/deepslate_alexandrite_ore.json

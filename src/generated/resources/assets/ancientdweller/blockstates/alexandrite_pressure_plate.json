@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ancientdweller:block/alexandrite_pressure_plate"
+    },
+    "powered=true": {
+      "model": "ancientdweller:block/alexandrite_pressure_plate_down"
+    }
+  }
+}
