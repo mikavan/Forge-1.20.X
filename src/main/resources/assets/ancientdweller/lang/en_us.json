@@ -11,6 +11,12 @@
 
   "block.ancientdweller.alexandrite_stairs": "Alexandrite Stairs",
   "block.ancientdweller.alexandrite_slab": "Alexandrite Slab",
+  "block.ancientdweller.alexandrite_fence": "Alexandrite Fence",
+  "block.ancientdweller.alexandrite_fence_gate": "Alexandrite Fence Gate",
+  "block.ancientdweller.alexandrite_wall": "Alexandrite Wall",
+  "block.ancientdweller.alexandrite_door": "Alexandrite Door",
+  "block.ancientdweller.alexandrite_trapdoor": "Alexandrite Trapdoor",
+
   "block.ancientdweller.alexandrite_button": "Alexandrite Button",
   "block.ancientdweller.alexandrite_pressure_plate": "Alexandrite Pressure Plate",
 
